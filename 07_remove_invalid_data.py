@@ -13,4 +13,4 @@ df = df[df['name'].apply(lambda x: isinstance(x, str) and x.isalpha())]
 df = df[df['gender'].isin(['Male', 'Female'])] 
 df = df[(df['age'] >= 0) & (df['age'] <= 120)] 
 print("\nCleaned DataFrame after removing invalid entries:") 
-print(df) 
+print(df)
