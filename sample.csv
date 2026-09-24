@@ -1,0 +1,10 @@
+"name","designation","department","salary"
+"Sita","manager","sales",60000.0
+"Tom","clerk","finance",
+"Dan",,"marketing",80000.0
+"Mark","accountant","finance",75000.0
+"Bell","clerk","purchase",30000.0
+"John","engineer","maintenance",60000.0
+"Rahul","clerk","sales",30000.0
+"Irfan",,"marketing",56000.0
+"Rahul","clerk","sales",30000.0
